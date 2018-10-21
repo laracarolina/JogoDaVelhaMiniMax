@@ -1,6 +1,4 @@
 # JogoDaVelhaMiniMax
-Trabalho da disciplina de Inteligência Artificial - UFU 2017.2
-Implementação do jogo da velha usando algoritmo MiniMax. 
 
 -> Configuração inicial:
 1) Humano = MAX ‘O’
